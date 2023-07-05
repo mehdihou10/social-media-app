@@ -1,0 +1,38 @@
+[
+    {
+        "title": "saved posts",
+        "url": "saved_posts.html",
+        "type": "link"
+    },
+
+    {
+        "title": "security",
+        "url": "contact.html",
+        "type": "link"
+    },
+
+    {
+        "title": "problem",
+        "url": "contact.html",
+        "type": "link"
+    },
+    
+    {
+            "title": "danger",
+            "url": "contact.html",
+            "type": "link"
+        
+    },
+
+    {
+        "title": "posts",
+        "section": "section main .content",
+        "type": "class"
+    },
+
+    {
+        "title": "requests",
+        "section": "last",
+        "type": "class"
+    }
+]
